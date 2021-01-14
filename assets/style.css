@@ -1,0 +1,59 @@
+#social-em a {
+  background-color: #333;
+}
+#social-em {
+  color:  #333;
+}
+#social-em:hover {
+  color: #f39c12;
+}
+.social {
+  padding: 15px;
+}
+.fa-envelope {
+  font-size: 70px;
+}
+
+/* making the LEter hover on top of img */
+.container {
+  position: relative;
+  width: 50%;
+  margin: auto;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+/* style footer  */
+.footer-link {
+  padding: 1em;
+}
+
+/* style nava bar */
+.navbar {
+  background-color: #333;
+}
