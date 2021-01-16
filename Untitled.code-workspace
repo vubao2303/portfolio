@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../class-content"
+		},
+		{
+			"path": "../weather-dashboard"
+		},
+		{
+			"path": "../readme-generator"
+		},
+		{
+			"path": "../responsive-portfolio"
+		},
+		{
+			"path": "../poppp"
+		},
+		{
+			"path": "../reference "
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}

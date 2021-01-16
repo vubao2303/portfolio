@@ -56,6 +56,10 @@ About me and my journey
   
   </ul>
 ## Code Snippet
+```html
+
+
+```
 
 
 
@@ -78,7 +82,7 @@ About me and my journey
 
 ## Deployed Link
 
-* [See Live Site](https://vubao2303.github.io/weather-dashboard/)
+* [See Live Site](https://vubao2303.github.io/portfolio/)
 
 
 ## Author
